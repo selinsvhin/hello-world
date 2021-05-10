@@ -1,5 +1,3 @@
 # hello-world
 Einführung in GITHUB
-
-Wir schaffen das!
-
+We can do this!
