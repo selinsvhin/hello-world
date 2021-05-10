@@ -1,2 +1,5 @@
 # hello-world
-Einführung in github
+Einführung in GITHUB
+
+Wir schaffen das!
+
