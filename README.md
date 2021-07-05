@@ -1,3 +1,2 @@
-# hello-world
-Einführung in GITHUB
-Wir schaffen das!JA!
+# PhyloTeach
+Didaktische Visualisierung von distanzbasierten Phylogenie Methoden
